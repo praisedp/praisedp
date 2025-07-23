@@ -1,6 +1,6 @@
-# Hi there, I'm Praisedp 👋
+# Hi there, I'm Pasan Perera 👋
 
-I'm a passionate Software Engineering undergraduate on an exciting journey in the world of coding and technology. I started with C, C++, and object-oriented programming, and I'm currently diving deep into Java and exploring networking fundamentals.
+I'm a passionate Data Science undergraduate on an exciting journey in the world of coding and technology. I started with C, C++, and object-oriented programming, and I'm currently diving deep into Java and exploring networking fundamentals.
 
 ## 🚀 About Me
 - **Software Engineering Student:** Building my future one line of code at a time.
