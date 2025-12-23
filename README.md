@@ -6,8 +6,21 @@
 <br/>
 
 <h1 align="center">
-  Hi, I'm Pasan Perera! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Pasan Perera<br/>
+  <img src="https://readme-typing-svg.herokuapp.com
+    ?font=Fira+Code
+    &weight=600
+    &size=26
+    &pause=1000
+    &color=58A6FF
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Architecting+Intelligent+Systems;
+    Multi-Agent+AI+Developer;
+    Data+Science+Undergraduate;
+    Building+Production-Ready+AI"
+  />
 </h1>
 
 <h3 align="center">
@@ -110,8 +123,13 @@ My interests lie at the intersection of **Machine Learning**, **Generative AI**,
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praisedp&theme=react-dark&hide_border=true&area=true" />
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=praisedp&show_icons=true&theme=radical&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisedp&layout=compact&theme=radical&hide_border=true" height="170"/>
+
 
 </div>
 
