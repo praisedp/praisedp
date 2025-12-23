@@ -102,15 +102,33 @@ My interests lie at the intersection of **Machine Learning**, **Generative AI**,
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praisedp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisedp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=praisedp&theme=radical&no-frame=true&row=1&column=7"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=praisedp&show_icons=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisedp&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praisedp&theme=radical&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=praisedp&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praisedp&theme=radical&hide_border=true&background=0D1117"/>
+  <img src="https://raw.githubusercontent.com/praisedp/praisedp/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
