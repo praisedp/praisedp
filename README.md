@@ -1,28 +1,120 @@
-# Hi there, I'm Pasan Perera 👋
+<div align="center">
+  <!-- Replace with your uploaded banner image link -->
+  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Pasan Perera Banner" />
+</div>
 
-I'm a passionate Data Science undergraduate on an exciting journey in the world of coding and technology. I started with C, C++, and object-oriented programming, and I'm currently diving deep into Java and exploring networking fundamentals.
+<br/>
 
-## 🚀 About Me
-- **Software Engineering Student:** Building my future one line of code at a time.
-- **Programming Languages:** Proficient in C and C++, now mastering Java.
-- **Interests:** Software development, networking, OSSA, SPM, and innovative tech solutions.
-- **Collaboration:** Always eager to team up on projects that challenge and expand my skill set.
+<h1 align="center">
+  Hi, I'm Pasan Perera! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## 🔭 What I'm Working On
-- **Java Projects:** Enhancing my skills with hands-on coding and project building.
-- **Networking:** Learning the ins and outs of network infrastructure and security.
-- **Software Engineering Practices:** Exploring modern methodologies to create robust, efficient software.
+<h3 align="center">
+  🚀 Architecting Intelligent Systems | 🤖 Multi-Agent AI Developer | 📊 Data Science Undergraduate
+</h3>
 
-## 🌱 Currently Learning
-- **Java:** Deepening my understanding of object-oriented principles and practical application development.
-- **Networking & Security:** Gaining the knowledge needed to build secure and efficient systems.
-- **Modern SE Concepts:** Embracing the best practices in software engineering, including OSSA and SPM.
+<div align="center">
+  <i>Building the bridge between raw data and actionable intelligence.</i>
+  <br/><br/>
 
-## 📫 How to Connect
-- **GitHub:** [praisedp](https://github.com/praisedp)
-- Feel free to reach out if you're interested in collaboration or just want to chat about tech!
+  <a href="https://linkedin.com/in/pasan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pasandp.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-## ⚡ Fun Fact
-Every coding challenge is a new adventure—I'm always excited to tackle problems and learn something new along the way.
+---
 
-Thanks for stopping by my profile. Let's build something amazing together!
+## ⚡ About Me
+
+<img align="right" alt="AI Animation" width="380"
+     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+I am a **Data Science Undergraduate at SLIIT** (Dean’s List ×3) with a strong focus on engineering **end-to-end AI systems** that move beyond notebooks into **real-world deployment**.
+
+My interests lie at the intersection of **Machine Learning**, **Generative AI**, and **Scalable Software Architecture**, where I design intelligent pipelines that transform complex data into meaningful, usable insights.
+
+- 🔭 **Currently working on:** **HeartSense Mobile (iOS)** — optimizing ML models for **on-device inference** using **CoreML**
+- 🧠 **Core Interests:** LLM orchestration, RAG pipelines, multi-agent systems, computer vision
+- 🎓 **Academic Standing:** GPA **3.77**, specializing in **Data Science**
+- 🌍 **Location:** Sri Lanka
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **AI & Machine Learning**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+### **Full-Stack & Cloud**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### ⚽ **Athlete AI — Multi-Agent Sports Analytics Platform**
+**Tech:** Python, FastAPI, Next.js, Llama-3 (Groq), RAG  
+**Highlights:**
+- Designed a **multi-agent backend orchestration system**
+- Integrated **rule-based agents + LLM agents** for real-time sports intelligence
+- Planner-Writer architecture for live commentary & analytical insights
+
+🔗 **Repository:**  
+👉 https://github.com/SYNCODE-SLIIT/Sports-Analysis.git
+
+---
+
+### ❤️ **HeartSense — 10-Year CHD Risk Prediction System**
+**Tech:** Scikit-Learn, XGBoost, FastAPI, Pydantic  
+**Highlights:**
+- End-to-end ML pipeline based on the **Framingham Heart Study**
+- Addressed class imbalance using SMOTE & threshold tuning
+- Improved **high-risk recall by ~15%**
+- Deployed via REST API and adapted for **iOS CoreML inference**
+
+🔗 **Repository:**  
+👉 https://github.com/SYNCODE-SLIIT/Heart-Disease.git
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praisedp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisedp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praisedp&theme=radical&hide_border=true&background=0D1117"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=praisedp&style=flat-square&color=blueviolet&label=Profile+Views"/>
+</div>
