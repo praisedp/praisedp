@@ -1,43 +1,21 @@
 <div align="center">
-  <!-- Replace with your uploaded banner image link -->
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Pasan Perera Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,50:0575E6,100:021B79&height=280&section=header&text=Pasan%20Perera&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Engineering%20Intelligence%20From%20Data&descSize=25&descAlignY=65&descAlign=50" width="100%" alt="Pasan Perera Header"/>
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00000&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate;AI%2FML+Developer;Multi-Agent+Systems+Architect;Full-Stack+%26+Intelligent+Systems" alt="Typing SVG" />
+</h1>
+<br/>
+<div align="center">
+  <a href="https://linkedin.com/in/pasan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pasandp.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
-
-<h1 align="center">
-  Pasan Perera<br/>
-  <img src="https://readme-typing-svg.herokuapp.com
-    ?font=Fira+Code
-    &weight=600
-    &size=26
-    &pause=1000
-    &color=58A6FF
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Architecting+Intelligent+Systems;
-    Multi-Agent+AI+Developer;
-    Data+Science+Undergraduate;
-    Building+Production-Ready+AI"
-  />
-</h1>
-
-<h3 align="center">
-  🚀 Architecting Intelligent Systems | 🤖 Multi-Agent AI Developer | 📊 Data Science Undergraduate
-</h3>
-
-<div align="center">
-  <i>Building the bridge between raw data and actionable intelligence.</i>
-  <br/><br/>
-
-  <a href="https://linkedin.com/in/pasan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pasandp.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
