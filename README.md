@@ -97,10 +97,6 @@ My interests lie at the intersection of **Machine Learning**, **Generative AI**,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=praisedp&theme=radical&no-frame=true&row=1&column=7"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praisedp&theme=react-dark&hide_border=true&area=true" />
 
 <br/>
